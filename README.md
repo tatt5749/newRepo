@@ -1,6 +1,9 @@
 # git-101
 Introduction to Git
 
+## Slide
+[Git 101 Slide](http://bit.ly/cc-git-slide)
+
 ## Check Version
 	`git --version`
 
